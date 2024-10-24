@@ -4,7 +4,7 @@
 
 <h3> Voorbereiding Sprint Review </h3>
 
-Tijdens de Wrap Up heb ik gekeken naar wat nog afgemaakt moet worden voor de Sprint Review. Tijdens de komende Sprint Review ga ik mijn website delen met de opdrachtgever. Dit zal helpen om direct feedback te krijgen en eventuele vragen te stellen. Verder heb ik de design qua kleur en de lay-out van de webinarpagina aangepast. Daarbij zorgde ik er ook voor dat ons project een nette en professionele README krijgt. 
+Tijdens de Wrap Up heb ik gekeken naar wat nog afgemaakt moet worden voor de Sprint Review. Tijdens de komende Sprint Review ga ik mijn website delen met de opdrachtgever. Dit zal helpen om direct feedback te krijgen en eventuele vragen te stellen. Verder heb ik de design qua kleur en de lay-out van de webinar pagina aangepast. Daarbij zorgde ik er ook voor dat ons project een nette en professionele README krijgt. 
 
 <h1>Beschrijving</h1> 
 
