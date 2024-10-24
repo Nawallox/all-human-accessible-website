@@ -4,11 +4,11 @@
 
 <h3> Voorbereiding Sprint Review </h3>
 
-Tijdens de Wrap Up heb ik gekeken naar wat nog afgemaakt moet worden voor de Sprint Review. Ik heb een duidelijk plan opgesteld voor wat ik donderdag wil laten zien en welke stappen daarvoor nodig zijn. Ook zorgde ik ervoor dat ons project een nette en professionele README krijgt.
+Tijdens de Wrap Up heb ik gekeken naar wat nog afgemaakt moet worden voor de Sprint Review. Tijdens de komende Sprint Review ga ik mijn website delen met de opdrachtgever. Dit zal helpen om direct feedback te krijgen en eventuele vragen te stellen. Verder heb ik de design qua kleur en de lay-out van de webinarpagina aangepast. Daarbij zorgde ik er ook voor dat ons project een nette en professionele README krijgt. 
 
 <h1>Beschrijving</h1> 
 
-Dit project is ontstaan om de communicatie tussen Nederlandse en Indonesische artsen te verbeteren, met een focus op oncologie. Het platform ondersteunt artsen bij het delen van kennis, bespreken van patiënten en evalueren van medische beelden.
+Het project is ontstaan naar aanleiding van een jaar verblijf in Indonesië om het land en de gezondheidszorg beter te leren kennen, en om samen met collega's onderzoek te doen. Tijdens dit verblijf werd duidelijk dat er behoefte is aan meer interactie met de internationale medische gemeenschap, met name vanwege het achterblijven van de gezondheidszorg in Indonesië. Artsen worden voornamelijk opgeleid in Jakarta en behandelen patiënten met relatief weinig ervaring.
 
 <h1> Kenmerken </h1>
 Features Chatsysteem Het platform heeft een geïntegreerd chatsysteem dat artsen in staat stelt om direct met elkaar in contact te komen. Dit maakt het eenvoudig om in real-time te discussiëren over patiëntenzorg en medische beelden, zoals het bepalen van bestralingsgebieden op basis van gedeelde CT-scans.
