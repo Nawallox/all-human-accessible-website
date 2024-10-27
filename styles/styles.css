@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 .search-container {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr auto;
     gap: 5px;
     justify-items: center;
@@ -73,7 +73,7 @@ nav ul li a {
 
 .webinar-list {
     display: grid;
-    grid-template-columns: 1fr; /* Default voor mobiele weergave */
+    grid-template-columns: 1fr; 
     gap: 10px;
 }
 
@@ -90,7 +90,7 @@ nav ul li a {
 
 .contouring-list {
     display: grid;
-    grid-template-columns: 1fr; /* Default voor mobiele weergave */
+    grid-template-columns: 1fr; 
     gap: 10px;
 }
 
