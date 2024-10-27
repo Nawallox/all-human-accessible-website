@@ -30,6 +30,7 @@ nav ul li a {
 }
 
 .search-container {  Flexbox gebruikt
+    display: flex;
     grid-template-columns: 1fr auto;
     gap: 5px;
     justify-items: center;
