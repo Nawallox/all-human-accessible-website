@@ -31,7 +31,7 @@ nav ul li a {
     display: flex;
 }
 
-.search-container {
+.search-container {  Flexbox gebruikt
     display: flex;
     grid-template-columns: 1fr auto;
     gap: 5px;
@@ -89,7 +89,7 @@ nav ul li a {
 }
 
 .contouring-list {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr; 
     gap: 10px;
 }
