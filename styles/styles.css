@@ -1,9 +1,3 @@
-/* Basisinstellingen */
-*,
-*::before,
-*::after {
-    box-sizing: border-box;
-}
 
 body {
     font-family: Arial, sans-serif;
@@ -42,7 +36,6 @@ nav ul li a {
     justify-items: center;
 }
 
-/* Featured sectie met Grid */
 #featured {
     background-color: #e6bcf3;
     padding: 40px 20px;
@@ -65,7 +58,6 @@ nav ul li a {
     border-radius: 8px;
 }
 
-/* Webinars sectie */
 #webinars {
     background-color: #fff;
     padding: 40px 20px;
@@ -90,7 +82,6 @@ nav ul li a {
     border-radius: 8px;
 }
 
-/* Contouring sectie */
 #contouring {
     background-color: #fff;
     padding: 40px 20px;
@@ -108,7 +99,6 @@ nav ul li a {
     border-radius: 8px;
 }
 
-/* Footer */
 footer {
     background-color: #5c104e;
     color: white;
