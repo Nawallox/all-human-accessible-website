@@ -10,10 +10,9 @@ body {
 
 header {
     background-color: #5c104e;
-    @media  (max-width: 768px) {
     padding: 20px;
 }
-}
+
 
 header ul { 
     list-style: none;
