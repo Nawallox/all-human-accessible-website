@@ -120,7 +120,7 @@ footer ul li a {
 }
 
 /* Media Queries voor grotere schermen */
-@media (min-width: 768px) {
+@media (min-width: 500px) {
     .featured-content {
         grid-template-columns: 2fr 1fr;
     }
@@ -131,7 +131,7 @@ footer ul li a {
     }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 500px) {
     .webinar-list,
     .contouring-list {
         grid-template-columns: repeat(3, 1fr);
